@@ -207,3 +207,7 @@ GNU GPL, BSD, Mozilla Public License, MIT, Apache
 * 전사적 자원관리 (ERP)
 * 고객관계 관리 (CRM)
 * 공급망 관리 (SCM)
+
+#### ERP 
+
+상샌, 판매, 자재, 인사, 회계 등 기업 전반적인 업무 프로세스를 하나의 체계로 통합한 시스템
