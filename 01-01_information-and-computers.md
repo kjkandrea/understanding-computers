@@ -6,6 +6,10 @@
 사물인터넷 (IoT: Internet of Things) 
 => 인터넷을 그반으로 모든 사물을 연결하여 정보를 상호 소통하는 지능형 기술
 
+## 컴퓨터
+
+EDPS: Electronic Data Processing System
+
 ## 컴퓨터 시스템
 
 특정한 작업을 수행하기 위해 필요한 기능을 가지는 하나 또는 여러 개의 요소가 연결된 개체를 의미한다.
