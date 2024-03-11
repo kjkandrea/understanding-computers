@@ -56,7 +56,7 @@ Fourth Industrial Revolution
 
 Internet of Things (Machine to Machine Comunication)
 
-Wireless sencor network
+Wireless sensor network
 
 사물이 인터넷 등의 통신망을 통해 다른 사물이나 시스템들과 연결하여 데이터를 교환함
 
